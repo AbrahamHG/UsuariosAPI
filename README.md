@@ -226,3 +226,5 @@ GET https://localhost:5001/api/logs/accion/Insertar
 Authorization: Bearer <token>
 
 
+# PRUEBAS 
+<img width="589" height="358" alt="Image" src="https://github.com/user-attachments/assets/1c996591-62a0-4148-940b-d1da0af29da9" />
