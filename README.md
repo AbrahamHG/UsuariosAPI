@@ -35,11 +35,44 @@ Cada acción del usuario se registra en la tabla Logs:
 - Login / Registro → autenticación y alta de usuarios.  
 - Errores → se registran con acción Error y mensaje genérico.
 
- [!NOTE]
-- Todas las peticiones que requieren autenticación deben incluir el header:
-  Authorization: Bearer <token>  `
+  # Instalación
+1. Clona el repositorio
+2. Restaura dependencias
+3. Configura la base de datos:
+   - Abre SQL Server Management Studio.
+   - Ejecuta el script APIDB.sql (incluido en el repo) para crear la base y tablas.
+   - Verifica que las tablas Usuario y Logs se hayan creado correctamente.
+Configuración
+1. Abre el archivo appsettings.json.
+2. Cambia la cadena de conexión:
+   `json
+   "ConnectionStrings": {
+    "sql_connection": "Server=AHG\\SQLEXPRESS;Database=APIDB;Trusted_Connection=True;TrustServerCertificate=True"
+   }
+   `por tu cadena de conexion de sql server
+3. Guarda los cambios.
+Ejecución
+1. Ejecuta el proyecto:
+2. La API se levantará en:
+   - http://localhost:{puerto}/swagger → interfaz Swagger para probar endpoints.
+   - http://localhost:{puerto}/api/usuarios → ejemplo de endpoint.
+
+ El puerto depende de tu configuración en launchSettings.json (por defecto suele ser 5000/5001).
+# NOTA
+- Todas las peticiones que requieren autenticación deben incluir el header: 
+  Authorization: Bearer <token>
+  # EXEPTO:
+  ## LoginController
+* Registro de usuario
+`https
+POST https://localhost:5001/api/login/register
+ 
 - El token se obtiene al hacer login en POST /api/login.
+- 
 - Los endpoints de LogsController están protegidos para usuarios con rol Admin.
+-  Ejemplo de petición
+GET http://localhost:{puerto}/api//login/register
+sustituir https://localhost:5001 al puerto que asigno visual estudio al cargar el poryecto y ejecutarlo
   
 # Endpoints
 ## LoginController
