@@ -226,7 +226,8 @@ GET https://localhost:5001/api/logs/accion/Insertar
 Authorization: Bearer <token>
 
 
-# PRUEBAS 
+# PRUEBAS
+Pruebas realizadas en APIDOG
 * Registro de usuario
 POST{HTTPSLOCALHOST}/api/login/register
 REGISTRO VALIDACIONES
@@ -255,6 +256,9 @@ DELETE {HTTPSLOCALHOST}/api/Usuario/7
  * OBTENER LOGS (Admin) 
 GET {HTTPSLOCALHOST}/api/logs
 <img width="589" height="200" alt="Image" src="https://github.com/user-attachments/assets/b53b12a3-811a-454e-96bd-262def3f0467" />
+
+* LOGS GENERADOS LOG.TXT
+<img width="1360" height="735" alt="Image" src="https://github.com/user-attachments/assets/1413a58a-8a74-4d69-958a-f14d72185b51" />
 
 
 
