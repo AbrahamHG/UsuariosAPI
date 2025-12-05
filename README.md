@@ -227,31 +227,32 @@ Authorization: Bearer <token>
 
 
 # PRUEBAS 
-*Registro de usuario
+* Registro de usuario
 POST{HTTPSLOCALHOST}/api/login/register
 REGISTRO VALIDACIONES
 <img width="589" height="358" alt="Image" src="https://github.com/user-attachments/assets/1c996591-62a0-4148-940b-d1da0af29da9" />
 
-*Login Token Asignado
+* Login Token Asignado
 POST{HTTPSLOCALHOST}/api/login/
 <img width="589" height="332" alt="Image" src="https://github.com/user-attachments/assets/68375510-0f0c-45bc-b261-d28836545a30" />
 
-*LISTA DE USAURIOS
+* LISTA DE USAURIOS
 GET {HTTPSLOCALHOST}/api/Usuario/
 <img width="589" height="356" alt="Image" src="https://github.com/user-attachments/assets/94042d18-98de-45b5-b63b-b1f662c8fa29" />
 
-*LISTA DE USAURIOS
+* LISTA DE USAURIOS
 GET {HTTPSLOCALHOST}/api/Usuario/1
 <img width="589" height="330" alt="Image" src="https://github.com/user-attachments/assets/f767f371-be1e-48cb-848f-dd0a34377e91" />
 
-*EDITAR USUARIO
+* EDITAR USUARIO
 PUT {HTTPSLOCALHOST}/api/Usuario/2
 <img width="589" height="353" alt="Image" src="https://github.com/user-attachments/assets/72d6f9a4-d973-4443-a898-29b2bc5049cf" />
 
-*ELIMINAR USUARIO
+* ELIMINAR USUARIO
 DELETE {HTTPSLOCALHOST}/api/Usuario/7
 <img width="589" height="325" alt="Image" src="https://github.com/user-attachments/assets/5efa8383-0658-465d-ba30-df38c63cdc35" /> 
 
+ * OBTENER LOGS (Admin) 
 GET {HTTPSLOCALHOST}/api/logs
 <img width="589" height="200" alt="Image" src="https://github.com/user-attachments/assets/b53b12a3-811a-454e-96bd-262def3f0467" />
 
