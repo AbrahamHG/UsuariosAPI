@@ -68,7 +68,6 @@ Ejecución
 POST https://localhost:5001/api/login/register
  
 - El token se obtiene al hacer login en POST /api/login.
-- 
 - Los endpoints de LogsController están protegidos para usuarios con rol Admin.
 -  Ejemplo de petición
 GET http://localhost:{puerto}/api//login/register
