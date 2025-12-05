@@ -227,4 +227,8 @@ Authorization: Bearer <token>
 
 
 # PRUEBAS 
+*Registro de usuario
+`https
+POST{HTTPSLOCHAL}/api/login/register
+REGISTRO VALIDACIONES
 <img width="589" height="358" alt="Image" src="https://github.com/user-attachments/assets/1c996591-62a0-4148-940b-d1da0af29da9" />
