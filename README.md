@@ -237,11 +237,11 @@ REGISTRO VALIDACIONES
 POST{HTTPSLOCALHOST}/api/login/
 <img width="589" height="332" alt="Image" src="https://github.com/user-attachments/assets/68375510-0f0c-45bc-b261-d28836545a30" />
 
-* LISTA DE USAURIOS
+* LISTA DE USUARIOS
 GET {HTTPSLOCALHOST}/api/Usuario/
 <img width="589" height="356" alt="Image" src="https://github.com/user-attachments/assets/94042d18-98de-45b5-b63b-b1f662c8fa29" />
 
-* LISTA DE USAURIOS
+* LISTA DE USUARIO
 GET {HTTPSLOCALHOST}/api/Usuario/1
 <img width="589" height="330" alt="Image" src="https://github.com/user-attachments/assets/f767f371-be1e-48cb-848f-dd0a34377e91" />
 
