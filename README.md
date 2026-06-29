@@ -259,8 +259,42 @@ GET {HTTPSLOCALHOST}/api/logs
 
 * LOGS GENERADOS LOG.TXT
 <img width="1360" height="735" alt="Image" src="https://github.com/user-attachments/assets/1413a58a-8a74-4d69-958a-f14d72185b51" />
+
 * CRUD
+  
 <img width="559" height="189" alt="WFCConsultar" src="https://github.com/user-attachments/assets/98b31cc5-6271-4f7c-b5dc-1db375151418" />
+
+<img width="626" height="296" alt="WFCConsultarService" src="https://github.com/user-attachments/assets/74ca9c6e-d19b-42d2-aee5-7bf66a3864fa" />
+
+
+<img width="554" height="233" alt="WFCConsultarForm" src="https://github.com/user-attachments/assets/25fc6d72-5979-4983-94b6-2baa475f337f" />
+
+
+<img width="1080" height="1374" alt="1" src="https://github.com/user-attachments/assets/7fb5b99b-b214-444d-82b5-68c53bce0056" />
+
+<img width="1080" height="1220" alt="2" src="https://github.com/user-attachments/assets/ebfc5979-3749-474f-aa18-316f2b89e28c" />
+
+<img width="1080" height="1146" alt="3" src="https://github.com/user-attachments/assets/2aefd6fd-5038-4498-a025-56792f194a63" />
+
+<img width="1080" height="944" alt="4" src="https://github.com/user-attachments/assets/fa27bffe-52ec-4a73-b544-5a97392b7f53" />
+
+
+<img width="1080" height="1346" alt="5" src="https://github.com/user-attachments/assets/b91c80cb-3194-4977-82c8-39fb69a30377" />
+
+<img width="1080" height="1594" alt="6" src="https://github.com/user-attachments/assets/434a7764-8320-49ec-94ea-2bd70803c291" />
+
+<img width="1080" height="1391" alt="7" src="https://github.com/user-attachments/assets/87527448-4f20-4ca1-b3ba-afdb22fefd77" />
+
+<img width="1080" height="1555" alt="8" src="https://github.com/user-attachments/assets/2450a5a1-03f1-459c-986e-24a49bfa8c95" />
+
+
+<img width="962" height="1599" alt="9" src="https://github.com/user-attachments/assets/ac6c7799-a984-49ff-bbd2-84250b218fcc" />
+
+<img width="222" height="1600" alt="10" src="https://github.com/user-attachments/assets/774b2450-9e9d-44d9-b464-e3eb19918d85" />
+
+
+
+
 
 
 
