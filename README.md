@@ -259,6 +259,8 @@ GET {HTTPSLOCALHOST}/api/logs
 
 * LOGS GENERADOS LOG.TXT
 <img width="1360" height="735" alt="Image" src="https://github.com/user-attachments/assets/1413a58a-8a74-4d69-958a-f14d72185b51" />
+* CRUD
+<img width="559" height="189" alt="WFCConsultar" src="https://github.com/user-attachments/assets/98b31cc5-6271-4f7c-b5dc-1db375151418" />
 
 
 
