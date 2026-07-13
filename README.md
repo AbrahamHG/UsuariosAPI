@@ -260,7 +260,8 @@ GET {HTTPSLOCALHOST}/api/logs
 * LOGS GENERADOS LOG.TXT
 <img width="1360" height="735" alt="Image" src="https://github.com/user-attachments/assets/1413a58a-8a74-4d69-958a-f14d72185b51" />
 
-
+* GOOGLE DRIVE
+  https://drive.google.com/file/d/1O7zLAa0PkmT87tUoZXv7FaVF1ebwckuf/view
 
 
 
